@@ -63,3 +63,9 @@ Library/ArtifactDB
 Library/LastSceneManagerSetup.txt
 Library/SourceAssetDB
 UserSettings/EditorUserSettings.asset
+*.dag
+Library/ArtifactDB
+Library/ArtifactDB
+*.dag
+Library/ArtifactDB
+Library/SourceAssetDB
