@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 C:\Users\tamta\Documents\GitHub\holbertonschool-cloud_racer
+=======
+C:\Users\demon\Documents\GitHub\holbertonschool-cloud_racer
+>>>>>>> d45b01cb2c47e1ebb3993623252151e13928a099
