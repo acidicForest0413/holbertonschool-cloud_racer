@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Victoria.unity
+=======
+- path: Assets/Scenes/Nick.unity
+>>>>>>> e7133a822f33da45d1c028602fed8260a742a2e5
   isLoaded: 1
   isActive: 1
   isSubScene: 0
