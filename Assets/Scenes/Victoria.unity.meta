@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Victoria.unity.meta
 guid: 206bf4a038a608d4295b8789e3320cb6
+========
+guid: 0851605490a599b46b6ac5cb681d93ea
+>>>>>>>> e4b0e580665a3a7dbf0ae973c855e6652748cedf:Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 

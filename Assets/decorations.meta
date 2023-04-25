@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/decorations.meta
 guid: 2c576f265073ec34e9d3baff31e9172b
+========
+guid: f4a73bf1fa487924d8d4d91f9db70fcd
+>>>>>>>> e4b0e580665a3a7dbf0ae973c855e6652748cedf:Assets/Cameras.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
