@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Kart_Classic.meta
+guid: f2db97d75b568414c90d4acc7f1c3390
+========
 guid: b11c6cb6adb7b724abf266a2ceb5139d
+>>>>>>>> e4b0e580665a3a7dbf0ae973c855e6652748cedf:Assets/AI.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
